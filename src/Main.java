@@ -7,8 +7,6 @@
  * Executes the whole program
  */
 
-
-
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;
@@ -66,9 +64,9 @@ public class Main{
         
         OUTER: //Menu
         while (true) {
-        	System.out.println("-----------------------------------------");
-        	System.out.println("------GUATEMALAN RUTES GPS CENTER--------");
-        	System.out.println("-----------------------------------------");
+        	System.out.println("------------------------------------------------------");
+        	System.out.println("------GUATEMALAN COVID-19 EMERGENCY GPS CENTER--------");
+        	System.out.println("------------------------------------------------------");
             System.out.println("\n1. Path among cities.");
             System.out.println("2. Graphs's city center.");
             System.out.println("3. Modify the graph.");
@@ -120,8 +118,8 @@ public class Main{
                 //Allow the modification of the graph
                 case 3:
                     String newDestiny = "";
-                    System.out.println("-------Traffic-------");
-                    System.out.println("-------Establish a new bound amoung cities-------");
+                    System.out.println("-------Road's issues-------");
+                    System.out.println("-------Establish a new bond amoung cities-------");
                     newDestiny = sc.next();
                     
                     if("a".equals(newDestiny.toLowerCase())){
@@ -135,7 +133,7 @@ public class Main{
                             if((c.getOrigin().equals(ori)) && (c.getDestiny().equals(dest))){
                                 path.remove(c);
                                 background = true;
-                                System.out.println("-------Interruption has been set successfully-------");
+                                System.out.println("-------Road's Interruption has been set successfully-------");
                                 break;
                             }
                         }

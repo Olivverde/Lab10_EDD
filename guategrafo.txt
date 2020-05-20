@@ -1,4 +1,4 @@
-Guatemala SantaRosa 82
+Guatemala Chimaltenango 82
 SantaRosa Peten 577
 Guatemala Izabal 266
 Guatemala Peten 525
@@ -7,10 +7,8 @@ Guatemala Jutiapa 133
 Guatemala Jalapa 123
 Guatemala Retalhuleu 190
 Guatemala Huehuetenango 261
-Guatemala Xela 200
 Guatemala BajaVerapaz 161
 Guatemala AltaVerapaz 250
-Guatemala Coban 211
 Coban Chiquimula 212
 Coban AltaVerapaz 40
 Coban Izabal 265
@@ -19,7 +17,6 @@ AltaVerapaz Quetzaltenango 250
 AltaVerapaz Jalapa 244
 AltaVerapaz Jutiapa 307
 AltaVerapaz Peten 269
-SantaRosa Coban 291
 SantaRosa Jalapa 118
 SantaRosa Jutiapa 79
 SantaRosa Huehuetenango 290
@@ -28,7 +25,4 @@ Chiquimula Quetzaltenango 370
 Quetzaltenango Huehuetenango 91
 Quetzaltenango Peten 461
 Quetzaltenango Guatemala 200
-Coban Guatemala 82
 AltaVerapaz Guatemala 99
-Huehuetenango Xela 80
-Xela Coban 200
